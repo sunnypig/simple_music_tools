@@ -1,0 +1,6 @@
+.idea/
+data/
+*.pyc
+
+
+test.py

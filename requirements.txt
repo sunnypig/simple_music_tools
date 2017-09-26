@@ -1,0 +1,7 @@
+h5py
+Librosa
+keras
+numpy
+scikit-learn
+sqlalchemy
+tensorflow
