@@ -2,6 +2,6 @@ h5py
 Librosa
 keras
 numpy
+pandas
 scikit-learn
-sqlalchemy
 tensorflow
